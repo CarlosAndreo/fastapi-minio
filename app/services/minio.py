@@ -1,12 +1,12 @@
-from typing import List
 from io import BytesIO
+from typing import List
 
 from repositories.minio import (
     get_all_buckets,
     get_all_objects,
     make_bucket,
-    remove_bucket,
     put_object,
+    remove_bucket,
 )
 
 
