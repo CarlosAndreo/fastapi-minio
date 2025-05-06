@@ -4,5 +4,5 @@
         "editor.defaultFormatter": "charliermarsh.ruff"
     },
     "ruff.configurationPreference": "filesystemFirst",
-    "ruff.configuration": "${workspaceFolder}/ruff.toml",
+    "ruff.configuration": "ruff.toml",
 }

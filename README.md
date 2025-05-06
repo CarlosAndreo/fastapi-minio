@@ -78,5 +78,5 @@ The MinIO UI will be available at `http://localhost:9000`.
 [python-url]: https://www.python.org/downloads/release/python-3133/
 [fastapi-badge]: https://img.shields.io/badge/FastAPI-0.115.12-blue?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688
 [fastapi-url]: https://fastapi.tiangolo.com/
-[minio-badge]: https://img.shields.io/badge/MinIO-RELEASE.2025--04--08--T15--41--24Z-ff2364?style=for-the-badge&logo=minio&logoColor=white&labelColor=ff2364
+[minio-badge]: https://img.shields.io/badge/MinIO-RELEASE.2025--04--22--T22--12--26Z-ff2364?style=for-the-badge&logo=minio&logoColor=white&labelColor=ff2364
 [minio-url]: https://min.io/
