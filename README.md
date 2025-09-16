@@ -74,9 +74,9 @@ The MinIO UI will be available at `http://localhost:9000`.
 [issues-url]: https://github.com/CarlosAndreo/fastapi-minio/issues
 [license-shield]: https://img.shields.io/github/license/CarlosAndreo/fastapi-minio.svg?style=for-the-badge
 [license-url]: https://github.com/CarlosAndreo/fastapi-minio/blob/main/LICENSE
-[python-badge]: https://img.shields.io/badge/Python-3.13.3-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB
-[python-url]: https://www.python.org/downloads/release/python-3133/
-[fastapi-badge]: https://img.shields.io/badge/FastAPI-0.115.12-blue?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688
+[python-badge]: https://img.shields.io/badge/Python-3.13.7-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB
+[python-url]: https://www.python.org/downloads/release/python-3137/
+[fastapi-badge]: https://img.shields.io/badge/FastAPI-0.116.1-blue?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688
 [fastapi-url]: https://fastapi.tiangolo.com/
-[minio-badge]: https://img.shields.io/badge/MinIO-RELEASE.2025--04--22--T22--12--26Z-ff2364?style=for-the-badge&logo=minio&logoColor=white&labelColor=ff2364
+[minio-badge]: https://img.shields.io/badge/MinIO-RELEASE.2025--09--07--T16--13--09Z-ff2364?style=for-the-badge&logo=minio&logoColor=white&labelColor=ff2364
 [minio-url]: https://min.io/
