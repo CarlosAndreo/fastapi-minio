@@ -5,16 +5,16 @@ description = "FastAPI template with MinIO."
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.13"
-authors = [{ name = "Carlos Andreo", email = "c.andreo@uma.es" }]
+authors = [{ name = "Carlos Andreo", email = "c.andreolopez@gmail.com" }]
 
 [dependency-groups]
 prod = [
-  "fastapi[standard]==0.116.1",
-  "minio==7.2.16",
-  "pydantic-settings==2.10.1",
+  "fastapi[standard]==0.118.0",
+  "minio==7.2.18",
+  "pydantic-settings==2.11.0",
 ]
 lint = [
-  "ruff==0.13.0",
+  "ruff==0.13.3",
 ]
 
 [tool.uv]
